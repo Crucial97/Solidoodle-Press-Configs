@@ -1,3 +1,5 @@
+# Only download the bundled configs, unless you know how to import seperate files then feel free to download the seperate ones
+
 # Steps to load these configs 
 
 1. Open up repetier (I use V1.0.6) 
