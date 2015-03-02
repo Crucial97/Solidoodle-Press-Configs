@@ -1,7 +1,7 @@
 # Solidoodle-Press-Configs
 
 
-Steps to load these configs /n
+# Steps to load these configs 
 
 1. Open up repetier (I use V1.0.6) 
 
