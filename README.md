@@ -1,4 +1,4 @@
-Only download the bundled configs, unless you know how to import seperate files then feel free to download the seperate ones
+Only download the bundled configs, unless you know how to import separate files then feel free to download the seperate ones
 
 # Steps to load these configs 
 
