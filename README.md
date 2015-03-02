@@ -14,6 +14,8 @@ Only download the bundled configs, unless you know how to import separate files 
 
 6. Hit ok 
 
+6.5. You might have to change what settings you are loading in the slicer tab of RH to the ones you downloaded
+
 7. Enjoy your printing! 
 
 
